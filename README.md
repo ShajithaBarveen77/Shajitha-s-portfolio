@@ -1,5 +1,5 @@
 # Shajitha-s-portfolio 
-A clean, modern, and fully responsive portfolio website crafted with pure HTML and CSS. This project reflects my transition from engineering graduate to passionate web developer, and showcases my design sensibility, technical skills, and learning journey at Error Makes Clever Academy.
+A responsive personal portfolio website built using HTML and CSS. Created to showcase my skills, projects, and journey as a web development enthusiast and engineering graduate. Developed as part of my learning at Error Makes Clever Academy.
 
 
 
